@@ -1,0 +1,1 @@
+This is a Blitz app for testing the Blitz framework.
